@@ -22,6 +22,11 @@ _A Java desktop application using Swing for collecting user name, surname, and t
 
 The **JavaSwing TempConverter & User Info GUI** (from file `Zadanie_nr_2_nr_albumu_154256.java`), developed by Adrian Lesniak, is a simple desktop application built using Java's Swing toolkit. Its primary purpose is to collect personal information (name, surname) and a temperature reading in Celsius (°C) from the user via a series of input dialog boxes. The application performs validation on these inputs: names and surnames must contain only letters, and the temperature must be a valid number. Upon successful validation, it converts the Celsius temperature to Fahrenheit (°F) and then displays all the collected and calculated information in a neatly formatted HTML dialog message.
 
+<br><br>
+<p align="center">
+  <img src="screenshots/1.gif" width="85%">
+</p>
+
 ## ✨ Key Features
 
 *   👤 **User Data Input**:
@@ -39,9 +44,20 @@ The **JavaSwing TempConverter & User Info GUI** (from file `Zadanie_nr_2_nr_albu
 
 ## 🖼️ Screenshots (Conceptual)
 
-**Coming soon!**
+_Screenshots of: the sequence of input dialogs (for name, surname, temperature), an example of an error message dialog for invalid input, and the final HTML-formatted results dialog._
 
-_This section would ideally show screenshots of: the sequence of input dialogs (for name, surname, temperature), an example of an error message dialog for invalid input, and the final HTML-formatted results dialog._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
