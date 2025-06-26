@@ -24,7 +24,7 @@ The **JavaSwing TempConverter & User Info GUI** (from file `Zadanie_nr_2_nr_albu
 
 <br><br>
 <p align="center">
-  <img src="screenshots/1.gif" width="85%">
+  <img src="screenshots/1.gif" width="75%">
 </p>
 
 ## ✨ Key Features
